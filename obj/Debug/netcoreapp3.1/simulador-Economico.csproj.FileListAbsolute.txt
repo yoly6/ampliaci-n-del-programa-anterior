@@ -1,0 +1,13 @@
+D:\3Matutino\prueba\simulador-Economico\obj\Debug\netcoreapp3.1\simulador-Economico.csprojAssemblyReference.cache
+D:\3Matutino\prueba\simulador-Economico\obj\Debug\netcoreapp3.1\simulador-Economico.AssemblyInfoInputs.cache
+D:\3Matutino\prueba\simulador-Economico\obj\Debug\netcoreapp3.1\simulador-Economico.AssemblyInfo.cs
+D:\3Matutino\prueba\simulador-Economico\obj\Debug\netcoreapp3.1\simulador-Economico.csproj.CoreCompileInputs.cache
+D:\3Matutino\prueba\simulador-Economico\bin\Debug\netcoreapp3.1\simulador-Economico.exe
+D:\3Matutino\prueba\simulador-Economico\bin\Debug\netcoreapp3.1\simulador-Economico.deps.json
+D:\3Matutino\prueba\simulador-Economico\bin\Debug\netcoreapp3.1\simulador-Economico.runtimeconfig.json
+D:\3Matutino\prueba\simulador-Economico\bin\Debug\netcoreapp3.1\simulador-Economico.runtimeconfig.dev.json
+D:\3Matutino\prueba\simulador-Economico\bin\Debug\netcoreapp3.1\simulador-Economico.dll
+D:\3Matutino\prueba\simulador-Economico\bin\Debug\netcoreapp3.1\simulador-Economico.pdb
+D:\3Matutino\prueba\simulador-Economico\obj\Debug\netcoreapp3.1\simulador-Economico.dll
+D:\3Matutino\prueba\simulador-Economico\obj\Debug\netcoreapp3.1\simulador-Economico.pdb
+D:\3Matutino\prueba\simulador-Economico\obj\Debug\netcoreapp3.1\simulador-Economico.genruntimeconfig.cache
